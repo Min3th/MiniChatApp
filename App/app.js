@@ -1,4 +1,3 @@
-const { io } = require('socket.io-client'); // Import the library
 
 const socket = io('ws://localhost:8080');
 
